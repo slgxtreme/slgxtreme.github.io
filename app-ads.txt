@@ -1,20 +1,12 @@
  
-#Facebook Ad Network
+#Facebook Ad Network Ownership Confirmation
 facebook.com, 1204636333615307, RESELLER, c3e20eee3f780d68
 facebook.com, 374225897990418, RESELLER, c3e20eee3f780d68
 facebook.com, 408639904485518, RESELLER, c3e20eee3f780d68
 facebook.com, 776488723710147, RESELLER, с3e20eee3f780d68
 facebook.com, 2321582901325699, RESELLER, с3e20eee3f780d68
 facebook.com, 814387073343497, RESELLER, с3e20eee3f780d68
-
-
-#Facebook Ownership Confirmation
-facebook.com, 408639904485518, RESELLER, с3e20eee3f780d68
-facebook.com, 776488723710147, RESELLER, с3e20eee3f780d68
-facebook.com, 374225897990418, RESELLER, c3e20eee3f780d68
-facebook.com, 1204636333615307, RESELLER, c3e20eee3f780d68
-facebook.com, 2321582901325699, RESELLER, с3e20eee3f780d68
-facebook.com, 814387073343497, RESELLER, с3e20eee3f780d68
+facebook.com, 816698509766757, RESELLER, с3e20eee3f780d6
 
 #Mopub
 mopub.com, 9a2adbc4f785471da92f348a5585c3ae, DIRECT, 74b46c0ea83967ca
